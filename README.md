@@ -1,9 +1,13 @@
-<div align="center">
+from pathlib import Path
+
+readme = """<div align="center">
+
 # Faryal Nasir
 
 ### Full-Stack Engineer | .NET · React · Python · AI & Agentic Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faryal%20Nasir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faryalnasir007/)
+
 </div>
 
 ------------------------------------------------------------------------
@@ -217,6 +221,4 @@ Listening: 90 · Reading: 87 · Speaking: 88 · Writing: 90\
 
 ------------------------------------------------------------------------
 
-<div align="center">
-### [Connect with me on LinkedIn](https://www.linkedin.com/in/faryalnasir007/)
-</div>
+
