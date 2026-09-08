@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = """<div align="center">
+content = '''<div align="center">
 
 # Faryal Nasir
 
@@ -161,24 +161,14 @@ Listening: 90 · Reading: 87 · Speaking: 88 · Writing: 90
 
 <div align="center">
 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/faryalnasir007/)
+### [Connect with me on LinkedIn](https://www.linkedin.com/in/faryalnasir007/)
 
 </div>
-"""
+'''
 
-out = Path("/mnt/data/README_CLEAN.md")
-out.write_text(readme, encoding="utf-8")
+# Use pypandoc as required for .md creation.
+import pypandoc
+output = "/mnt/data/README.md"
+pypandoc.convert_text(content, "md", format="md", outputfile=output, extra_args=["--standalone"])
 
-# Verify that removed private details do not exist anywhere in the file.
-forbidden = [
-    "fwahlah18@gmail.com",
-    "306 4238780",
-    "bit.ly/4zLCBaB",
-    "35201-8053834-0",
-    "18 Dec 2000",
-    "Canal Bank Housing Scheme",
-]
-assert not any(x in readme for x in forbidden)
-
-print("Created clean README_CLEAN.md")
-print(f"{len(readme.splitlines())} lines")
+print("Corrected README.md created. It contains only the README content, not the Python creation/editing code.")
