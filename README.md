@@ -1,4 +1,3 @@
-from pathlib import Path
 
 readme = """<div align="center">
 
