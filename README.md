@@ -1,5 +1,5 @@
 
-readme = """<div align="center">
+<div align="center">
 
 # Faryal Nasir
 
