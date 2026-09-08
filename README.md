@@ -25,6 +25,30 @@ expanding the boundaries of what I can build and investigate.
 
 ------------------------------------------------------------------------
 
+## 🛠️ Technical Skills
+
+**Back-End Development**\
+`Python` · `.NET`
+
+**Front-End Development**\
+`React` · `HTML5` · `CSS3` · `SCSS` · `Bootstrap` · `Tailwind` ·
+`TypeScript`
+
+**Programming Languages**\
+`Python` · `C#` · `SQL` · `JavaScript`
+
+**AI & Agentic Development**\
+`LangChain` · `LangGraph` · `CrewAI` · `OpenAI Agents SDK` ·
+`OpenAI API`
+
+**Workflow Automation**\
+`n8n` · `Zapier AI`
+
+**Development Environments**\
+`Visual Studio` · `Visual Studio Code` · `SQL Server Management Studio`
+
+------------------------------------------------------------------------
+
 ## 💼 Work Experience
 
 ### Office of Superintendent of Public Instruction (OSPI)
@@ -156,30 +180,6 @@ AI-driven learning methods.
 
 **Tech:** `WordPress` · `JavaScript` · `HTML5` · `CSS3` · `SCSS` ·
 `Bootstrap`
-
-------------------------------------------------------------------------
-
-## 🛠️ Technical Skills
-
-**Back-End Development**\
-`Python` · `.NET`
-
-**Front-End Development**\
-`React` · `HTML5` · `CSS3` · `SCSS` · `Bootstrap` · `Tailwind` ·
-`TypeScript`
-
-**Programming Languages**\
-`Python` · `C#` · `SQL` · `JavaScript`
-
-**AI & Agentic Development**\
-`LangChain` · `LangGraph` · `CrewAI` · `OpenAI Agents SDK` ·
-`OpenAI API`
-
-**Workflow Automation**\
-`n8n` · `Zapier AI`
-
-**Development Environments**\
-`Visual Studio` · `Visual Studio Code` · `SQL Server Management Studio`
 
 ------------------------------------------------------------------------
 
